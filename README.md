@@ -1,0 +1,1 @@
+A palindronme is a word, sentence, verse or number thats reads the same backwards or forward.
